@@ -15,6 +15,8 @@ theme = "aerial"
   medium = "Twitter"
   icon = "twitter"
   link = "#"
+  #Enable link in new tab by entering any string. Disable by leaving empty.
+  new_tab = "1"
 
 [[params.social]]
   medium = "Facebook"
